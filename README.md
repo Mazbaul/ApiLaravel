@@ -8,7 +8,7 @@
 4. Set up `.env` file and set db name in .env
 5. Run `php artisan wild:card`
 6. Project will run in this link: http://127.0.0.1:8080/
-7.admin username:admin@gmail.com ,password:123456
+7. admin username:admin@gmail.com ,password:123456
 
 ## API Url List
 1. login[POST] - http://127.0.0.1:8080/api/login
