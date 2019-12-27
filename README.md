@@ -1,4 +1,4 @@
-# Api-la## Set up this project
+## Set up this project
 
 1. Clone repository
 2. Run `composer install`
